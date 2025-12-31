@@ -1,15 +1,20 @@
-![Profile Banner]([https://repository-images.githubusercontent.com/332843002/e0681683-b297-4c4c-b1d6-c78eeb151b31](https://repository-images.githubusercontent.com/678715471/b80f7763-9f3e-4452-afb2-1457b31f77fc))
-<!-- অথবা অন্য ব্যানার চাইলে এই লিঙ্কগুলোর একটা ব্যবহার করতে পারো:
-https://repository-images.githubusercontent.com/678715471/b80f7763-9f3e-4452-afb2-1457b31f77fc
-https://blog.logrocket.com/wp-content/uploads/2023/02/best-next-js-starter-templates-nocdn.png
+![Profile Banner](https://repository-images.githubusercontent.com/337150944/a51e8900-6aec-11eb-8c14-9119664dccda)
+<!-- ব্যানার চেঞ্জ করতে চাইলে উপরের লিঙ্কটা বদলাও। অপশনস:
+1. https://repository-images.githubusercontent.com/517182867/327acc25-9c2f-4d43-92c6-33eb1893439a
+2. https://repository-images.githubusercontent.com/279064706/5add8880-86e6-11eb-948e-55d83df0c57e
+3. https://miro.medium.com/v2/resize:fit:1400/1*YzoVjQ57jkUmYhibLh4JtQ.png
 -->
 
-<h1 align="center">Hi 👋, I'm Md. Abdul Mokim</h1>
-<h3 align="center">Passionate Frontend Developer from Bangladesh</h3>
-
-<p align="center">
-  <em>Building modern, responsive web applications with React, Next.js, and the MERN stack.</em>
-</p>
+<div align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiMWd5UMf7u21iFeQaQlQk-plZSNygXzY_ng&s" alt="Md. Abdul Mokim" width="150" style="border-radius:50%;">
+  
+  <h1>Hi 👋, I'm Md. Abdul Mokim</h1>
+  <h3>Passionate Frontend Developer from Bangladesh</h3>
+  
+  <p>
+    <em>Building modern, responsive web applications with React, Next.js, and the MERN stack.</em>
+  </p>
+</div>
 
 <br>
 
@@ -36,10 +41,10 @@ All my projects are available at [abdul-mokim-portfolio.netlify.app](https://abd
 <h3 align="left">Connect with Me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/abdul-mokim-810380352" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=61555262957033" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 </p>
 
