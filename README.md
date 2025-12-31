@@ -1,10 +1,9 @@
-![Banner](https://miro.medium.com/v2/resize:fit:1400/1*lMjZ_SRTMmXmR5Nl79fsiw.png)
-<!-- ব্যানার চেঞ্জ করতে চাইলে উপরের লিঙ্ক বদলাও। ভালো অপশনস:
-1. https://miro.medium.com/v2/resize:fit:1400/1*qM8lrdk8ChyAQr8o-4U0-g.png
-2. https://colinhacks.com/nextjs_banner.png
-3. https://repository-images.githubusercontent.com/678715471/b80f7763-9f3e-4452-afb2-1457b31f77fc
-4. https://miro.medium.com/v2/resize:fit:1400/1*_p2duELlXBvFaJ0gJZVZZQ.png
-5. https://camo.githubusercontent.com/b06749d0e02f20a03dc543c58bdc8e977a645cee7f9c63a55334c98f22e302b9/68747470733a2f2f6d6d697374616b65732e6769746875622e696f2f736f2d73696d706c652d7468656d652f696d616765732f6461726b2d736b696e2e706e67
+![Next.js Banner](https://colinhacks.com/nextjs_banner.png)
+<!-- যদি অন্য ব্যানার চাও, উপরের লিঙ্ক বদলাও। ভালো অপশনস:
+1. https://miro.medium.com/v2/resize:fit:1400/1*lMjZ_SRTMmXmR5Nl79fsiw.png
+2. https://repository-images.githubusercontent.com/678715471/b80f7763-9f3e-4452-afb2-1457b31f77fc
+3. https://www.felixvemmer.com/posts/why-next-js/twitter-card.png
+4. https://kinsta.com/wp-content/uploads/2023/03/how-to-build-and-deploy-a-blazing-fast-developer-portfolio-with-next-js-1-1200x675.jpg
 -->
 
 <div align="center">
@@ -63,9 +62,6 @@
   <a href="https://www.linkedin.com/in/abdul-mokim-810380352" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50"/>
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="50"/>
-  </a>
 </p>
 
 <p align="center">Email: <strong>mamokim2005@gmail.com</strong></p>
@@ -74,7 +70,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?Mokim2005=Mokim2005&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
