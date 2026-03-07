@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/mokim2005/mokim2005/raw/main/github-banner-mokim-dark.png" alt="Md. Abdul Mokim - MERN Stack Developer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Md.%20Abdul%20Mokim&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=MERN%20Stack%20Developer&descAlignY=60&descSize=20" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Abdul Mokim</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
@@ -64,15 +64,14 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mokim2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mokim2005&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokim2005&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokim2005&layout=compact&theme=radical&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mokim2005&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=mokim2005&theme=radical&hide_border=true" />
 
 </p>
