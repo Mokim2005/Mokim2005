@@ -1,77 +1,114 @@
+<!-- Banner -->
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Md.%20Abdul%20Mokim&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=MERN%20Stack%20Developer&descAlignY=60&descSize=20" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Md. Abdul Mokim</h1>
-<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
+<!-- Typing Animation -->
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mokim2005&label=Profile%20views&color=0e75b6&style=flat" alt="mokim2005" />
-</p>
-
-- 🔭 I’m currently working on **MovieMatrix**  
-- 🌱 I’m currently learning **Next.js**  
-- 👯 I’m looking to collaborate on [City Fix](https://city-fix-b6595.web.app)  
-- 🤝 I’m looking for help with [Zap Shift](https://zap-shift-14bf4.web.app)  
-- 👨‍💻 All of my projects are available at  
-  **https://abdul-mokim-protfolio.netlify.app**  
-- 💬 Ask me about **React.js, Next.js**  
-- 📫 How to reach me **mamokim2005@gmail.com**  
-- 📄 Know about my experiences  
-  https://docs.google.com/document/d/1PMXf1jmYjMe_i7s6sIcHoSKJ52TPp6saFqrVioPseac/edit
-
----
-
-### 🌐 Connect with me
-
-<p align="left">
-<a href="https://twitter.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-
-<a href="https://linkedin.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-<a href="https://facebook.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
-
-<a href="https://instagram.com/mamokim2005" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Frontend+Developer+From+Bangladesh" />
 </p>
 
 ---
 
-### 🛠 Languages and Tools
+# 👋 Hi, I'm Md. Abdul Mokim
 
-<p align="left">
+### 🚀 Passionate MERN Stack Developer
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
-</p>
+- 🔭 Currently working on **MovieMatrix**  
+- 🌱 Currently learning **Next.js**  
+- 👯 Collaborating on **City Fix**  
+- 🤝 Working on **Zap Shift**  
+- 💬 Ask me about **React, Next.js, Node.js**  
+- 📫 **mamokim2005@gmail.com**  
+- 🌐 Portfolio  
+**https://abdul-mokim-protfolio.netlify.app**
 
 ---
-### 📊 GitHub Stats
+
+# 🌐 Connect With Me
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mokim2005&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokim2005&layout=compact&theme=radical&hide_border=true" />
+<a href="https://twitter.com">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
 
-<img src="https://streak-stats.demolab.com?user=mokim2005&theme=radical&hide_border=true" />
+<a href="https://facebook.com">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/mamokim2005">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,firebase,python,git,github,vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mokim2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokim2005&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=mokim2005&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mokim2005&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mokim2005&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=mokim2005&label=Profile%20Views&color=blue&style=for-the-badge"/>
 
 </p>
