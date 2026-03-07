@@ -6,65 +6,45 @@
 4. https://kinsta.com/wp-content/uploads/2023/03/how-to-build-and-deploy-a-blazing-fast-developer-portfolio-with-next-js-1-1200x675.jpg
 -->
 
-<div align="center">
+<h1 align="center">Hi 👋, I'm Md. Abdul Mokim</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-  <h1>Md. Abdul Mokim</h1>
-  <h3>Passionate Frontend Developer | React & Next.js Enthusiast</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
-  <p align="center">
-    <strong>About Me</strong><br/>
-    I'm a dedicated frontend developer from Bangladesh with a strong focus on building modern, responsive, and user-friendly web applications.<br/>
-    I specialize in React.js and am currently diving deep into Next.js to create performant full-stack experiences.<br/>
-    Passionate about clean code, UI/UX, and turning ideas into reality through innovative projects.
-  </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mokim2005&label=Profile%20views&color=0e75b6&style=flat" alt="mokim2005" /> </p>
 
-  <br/>
+- 🔭 I’m currently working on **MovieMatrix**
 
-  <p align="left">
-    <strong>🚀 Current Activities</strong><br/>
-    • Exploring advanced Next.js features (App Router, Server Components, SSR/SSG)<br/>
-    • Building real-world projects with the MERN stack<br/>
-    • Collaborating on open-source and client-side applications<br/>
-    • Enhancing skills in Tailwind CSS and modern frontend tools
-  </p>
+- 🌱 I’m currently learning **next.js,**
 
-</div>
+- 👯 I’m looking to collaborate on [city fix](https://city-fix-b6595.web.app)
 
-<br/>
+- 🤝 I’m looking for help with [zap shift](https://zap-shift-14bf4.web.app)
 
-### 🛠️ Skills
+- 👨‍💻 All of my projects are available at [https://abdul-mokim-protfolio.netlify.app](https://abdul-mokim-protfolio.netlify.app)
 
-#### Frontend
+- 💬 Ask me about **react.js , next.js**
+
+- 📫 How to reach me **mamokim2005@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1PMXf1jmYjMe_i7s6sIcHoSKJ52TPp6saFqrVioPseac/edit?tab=t.0](https://docs.google.com/document/d/1PMXf1jmYjMe_i7s6sIcHoSKJ52TPp6saFqrVioPseac/edit?tab=t.0)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
+<a href="https://twitter.com/abdul mokim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdul mokim" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdul mokim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul mokim" height="30" width="40" /></a>
+<a href="https://fb.com/m.a. mokim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.a. mokim" height="30" width="40" /></a>
+<a href="https://instagram.com/mamokim2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mamokim2005" height="30" width="40" /></a>
 </p>
 
-#### Backend & Database
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-#### Others
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mokim2005&show_icons=true&locale=en&layout=compact" alt="mokim2005" /></p>
 
-<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mokim2005&show_icons=true&locale=en" alt="mokim2005" /></p>
 
-### 📫 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdul-mokim-810380352" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50"/>
-  </a>
-</p>
-
-<p align="center">Email: <strong>mamokim2005@gmail.com</strong></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mokim2005&" alt="mokim2005" /></p>
 
 <br/>
 
