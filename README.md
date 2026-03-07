@@ -1,4 +1,4 @@
-![Next.js Banner](https://colinhacks.com/nextjs_banner.png)
+
 <!-- যদি অন্য ব্যানার চাও, উপরের লিঙ্ক বদলাও। ভালো অপশনস:
 1. https://miro.medium.com/v2/resize:fit:1400/1*lMjZ_SRTMmXmR5Nl79fsiw.png
 2. https://repository-images.githubusercontent.com/678715471/b80f7763-9f3e-4452-afb2-1457b31f77fc
