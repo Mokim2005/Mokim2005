@@ -29,6 +29,29 @@
 
 ---
 
+# 👨‍💻 About Me
+
+I'm **Md. Abdul Mokim**, a passionate **MERN Stack Developer** from **Bangladesh 🇧🇩**.
+
+I enjoy building **modern, responsive, and user-friendly web applications** using the **MERN Stack**.
+
+💡 I love solving problems and improving my skills in **React, Next.js and modern web technologies**.
+
+### 🚀 What I Do
+
+- 🌐 Build responsive **web applications**
+- ⚡ Create interactive UI with **React & Next.js**
+- 🔗 Develop backend with **Node.js & Express**
+- 🗄 Work with **MongoDB databases**
+
+### 🎯 Current Goals
+
+- Master **Next.js**
+- Build more **real-world projects**
+- Contribute to **open source**
+
+---
+
 # 🌐 Connect With Me
 
 <p align="center">
