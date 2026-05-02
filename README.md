@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Md.%20Abdul%20Mokim&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=MERN%20Stack%20Developer&descAlignY=60&descSize=20" width="100%" />
 </p> -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mokim2005/Mokim2005/main/image.jpg" alt="Md Abdul Mokim Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Mokim2005/Mokim2005/main/mokim.png" alt="Md Abdul Mokim Banner" width="100%"/>
 </p>
 
 <!-- Typing Animation -->
