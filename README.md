@@ -10,7 +10,7 @@
 <!-- Typing Animation -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Frontend+Developer+From+Bangladesh" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Full stack+Developer+From+Bangladesh" />
 </p>
 
 ---
