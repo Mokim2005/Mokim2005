@@ -21,10 +21,10 @@
 
 <img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
-- 🔭 Currently working on **MovieMatrix**  
+- 🔭 Currently working on **Lazy Loader**  
 - 🌱 Currently learning **Typescript**  
-- 👯 Collaborating on **City Fix**  
-- 🤝 Working on **Zap Shift**  
+- 👯 Collaborating on **MovieMatrix**  
+- 🤝 Working on **DeveloperLook job project**  
 - 💬 Ask me about **React, Next.js, Node.js**  
 - 📫 **mamokim2005@gmail.com**  
 - 🌐 Portfolio  
