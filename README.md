@@ -19,10 +19,10 @@
 <tr>
 <td valign="top" width="60%">
 
-- 🔭 Currently working on **Lazy Loader**  
+- 🔭 Currently working on **Lazy Loader, Rise Togather**  
 - 🌱 Currently learning **Typescript**  
-- 👯 Collaborating on **MovieMatrix**  
-- 🤝 Working on **DeveloperLook job project**  
+- 👯 Collaborating on **Niramoy**  
+- 🤝 Working on **"Niramoy" Rise together project**  
 - 💬 Ask me about **React, Next.js, Node.js**  
 - 📫 **mamokim2005@gmail.com**  
 - 🌐 Portfolio: **https://abdul-mokim-protfolio.netlify.app**
